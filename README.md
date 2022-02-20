@@ -20,4 +20,7 @@ Yardımları için [Thâns](https://github.com/ThansEX)'a teşekkür ediyorum.
 # Kurulum Nasıl Yapılır?
 - `src/Configs` Klasöründe bulunan `Config.json` dosyasını doldurmanız yeterli olacaktır.
 # Bot İçeriğine Ait Resimler
-- Sıkıldıkça ekliyeceğim :D
+
+# SPOILER XD
+![image](https://user-images.githubusercontent.com/97298322/154839557-eae1f2cf-c4ec-4241-acf4-c0bec1affa52.png)
+
